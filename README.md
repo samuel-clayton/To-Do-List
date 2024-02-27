@@ -7,7 +7,7 @@ This is a simple command-line To-Do List application written in Python. It allow
 
 Clone the repository:
 
-    git clone https://github.com/samuel-clayton/To-Do-List.git
+    git clone https://github.com/samuel-clayton/to-do-list.git
 
 Navigate to the project directory:
 
